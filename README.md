@@ -53,7 +53,7 @@ This project taught me:
 - Made me appreciate cv2.imshow() more than any IDE
 
 ## Try it yourself:
-# Installation spell
+-  Installation spell
 `pip install opencv-python mediapipe numpy `
 
 `python virtual_painter.py`
